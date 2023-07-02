@@ -1,0 +1,38 @@
+.pappus {
+  background-color: orange;
+  width: 450px;
+  height: 450px;
+  display: flex;
+  justify-content: space-around;
+  /* align-items: ; */
+}
+
+.sooryan {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+}
+
+.appus {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
+
+.suppu {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+.cr7 {
+  background-color: brown;
+  width: 100px;
+  height: 100px;
+  color: rgb(15, 9, 9);
+}
+.simgm {
+  background-color: aliceblue;
+  width: 500px;
+  height: 500px;
+  color: #fefe02;
+}
